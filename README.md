@@ -1,4 +1,4 @@
-# [Your Name]'s GitHub Overview
+#Thomas Sarpong
 
 ## About Me
 Hello! I'm Thomas Sarpong, a passionate developer interested in Distributed system engineering.
