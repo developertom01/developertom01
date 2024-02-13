@@ -18,6 +18,6 @@ Hello! I'm Thomas Sarpong, a passionate developer interested in Distributed syst
 
 ## Contact Me
 - **Email:** sarpongthomas05@gmail.com
-- **LinkedIn:** [Link to your LinkedIn profile]( https://www.linkedin.com/in/thomas-sarpong-8b2490149/ )
+- **LinkedIn:** [LinkedIn profile]( https://www.linkedin.com/in/thomas-sarpong-8b2490149/ )
 
 
