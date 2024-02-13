@@ -1,4 +1,4 @@
-#Thomas Sarpong
+# Thomas Sarpong
 
 ## About Me
 Hello! I'm Thomas Sarpong, a passionate developer interested in Distributed system engineering.
