@@ -14,7 +14,7 @@ Hello! I'm Thomas Sarpong, a passionate developer interested in Distributed syst
 - **Description:** Json RPC version 2 implementation in golang. A very fast and lightweight package.
 - **Languages & Technologies:** Golang, Opensource
 - **GitHub Repository:** [Link](https://github.com/developertom01/jsonrpc2)
-
+- **Golang Pkg:** [Link](https://pkg.go.dev/github.com/developertom01/jsonrpc2)
 
 ## Contact Me
 - **Email:** sarpongthomas05@gmail.com
